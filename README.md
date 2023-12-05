@@ -1,2 +1,1 @@
-# projeto-mobile-first
- Mini-Projeto de responsividade
+Teste de responsividade com media queries
